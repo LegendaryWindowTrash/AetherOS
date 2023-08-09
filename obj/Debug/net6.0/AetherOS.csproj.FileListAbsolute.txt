@@ -1,0 +1,12 @@
+C:\Users\glen\source\repos\AetherOS\AetherOS\bin\Debug\net6.0\AetherOS.deps.json
+C:\Users\glen\source\repos\AetherOS\AetherOS\bin\Debug\net6.0\AetherOS.dll
+C:\Users\glen\source\repos\AetherOS\AetherOS\bin\Debug\net6.0\AetherOS.pdb
+C:\Users\glen\source\repos\AetherOS\AetherOS\obj\Debug\net6.0\AetherOS.csproj.AssemblyReference.cache
+C:\Users\glen\source\repos\AetherOS\AetherOS\obj\Debug\net6.0\AetherOS.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\glen\source\repos\AetherOS\AetherOS\obj\Debug\net6.0\AetherOS.AssemblyInfoInputs.cache
+C:\Users\glen\source\repos\AetherOS\AetherOS\obj\Debug\net6.0\AetherOS.AssemblyInfo.cs
+C:\Users\glen\source\repos\AetherOS\AetherOS\obj\Debug\net6.0\AetherOS.csproj.CoreCompileInputs.cache
+C:\Users\glen\source\repos\AetherOS\AetherOS\obj\Debug\net6.0\AetherOS.dll
+C:\Users\glen\source\repos\AetherOS\AetherOS\obj\Debug\net6.0\refint\AetherOS.dll
+C:\Users\glen\source\repos\AetherOS\AetherOS\obj\Debug\net6.0\AetherOS.pdb
+C:\Users\glen\source\repos\AetherOS\AetherOS\obj\Debug\net6.0\ref\AetherOS.dll
